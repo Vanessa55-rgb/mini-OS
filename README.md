@@ -54,7 +54,7 @@ Cada aplicación se muestra dentro del iframe central, simulando la experiencia 
 4. Copia el enlace generado.
 
 🔗 **Enlace de despliegue:**  
-[https://tu_usuario.github.io/mini-os](https://tu_usuario.github.io/mini-os) *(reemplaza con el real)*
+[https://vanessa55-rgb.github.io/mini-OS/](https://vanessa55-rgb.github.io/mini-OS/) 
 
 🔗 **Azure DevOps - Proyecto:**  
 [https://dev.azure.com/riwi-cohorte-4/Berners%20Lee/_workitems/edit/1846](https://dev.azure.com/riwi-cohorte-4/Berners%20Lee/_workitems/edit/1846)
