@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>MiniOS - Ubuntu Style</title>
+  <link rel="stylesheet" href="styles/main.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="left">
+      <a href="apps/desktop.html" target="visor" class="menu">≡</a>
+    </div>
+    <div class="center">MiniOS | 13 de junio 2025 - 19:00</div>
+    <div class="right">🔊 🔋 🌐</div>
+  </header>
+
+  <div class="system">
+    <aside class="dock">
+      <div class="apps">
+        <input type="radio" name="app" id="nav-note">
+        <label for="nav-note"><a href="apps/note.html" target="visor">📝</a></label>
+        <input type="radio" name="app" id="nav-homeworks">
+        <label for="nav-homeworks"><a href="apps/homeworks.html" target="visor">📚</a></label>
+        <input type="radio" name="app" id="nav-weather">
+        <label for="nav-weather"><a href="apps/weather.html" target="visor">☁️</a></label>
+      </div>
+      <div class="settings">
+        <input type="radio" name="app" id="nav-settings">
+        <label for="nav-settings"><a href="apps/settings.html" target="visor">⚙️</a></label>
+      </div>
+    </aside>
+    <main class="desktop">
+      <iframe name="visor" src="apps/desktop.html"></iframe>
+    </main>
+  </div>
+  <footer class="footer-bar">
+    <p>MiniOS creado por Santiago, Vanessa y Luna — 2025</p>
+  </footer>
+</body>
+</html>
